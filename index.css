@@ -1,0 +1,86 @@
+.container {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3vh 3%;
+    background-color: #273c75;
+}
+
+.buttons {
+    width: 94%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 60px;
+}
+
+.common-button {
+    width: 40%;
+    height: 5vh;
+    font-size: 40px;
+    border: none;
+    outline: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.file-button {
+    background-color: #0984e3;
+}
+
+.download-button {
+    background-color: #00b894;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.file-input {
+    display: none;
+}
+
+#img {
+    width: 86%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.filter-ctrls {
+    width: 86%;
+    margin-top: 60px;
+}
+
+.tips {
+    font-size: 50px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.options {
+    width: 100%;
+    min-height: 40vh;
+}
+
+.item {
+    font-size: 40px;
+    line-height: 2;
+    margin-right: 20px;
+    padding: 0 20px;
+    color: white;
+    border: 3px solid white;
+    border-radius: 30px;
+}
+
+.active {
+    background-color: #0097e6;
+}
+
+#imgCanvas {
+    display: none;
+}
