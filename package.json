@@ -1,0 +1,23 @@
+{
+  "name": "filter-for-image",
+  "version": "1.0.0",
+  "description": "😊😊Add filters to your pictures through css3!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixiaorui2018/filter-for-image.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ixiaorui2018/filter-for-image/issues"
+  },
+  "homepage": "https://github.com/ixiaorui2018/filter-for-image#readme",
+  "dependencies": {
+    "html2canvas": "^1.0.0-rc.7"
+  }
+}
